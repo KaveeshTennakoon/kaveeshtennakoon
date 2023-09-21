@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaveeshtennakoon" alt="kaveeshtennakoon" /></a> </p>
 
-- 🌱 I’m currently learning **python , C+**
+- 🌱 I’m currently learning **python , C+, HTML, CSS, JavaScript**
 
 - 💬 Ask me about **python , tkinter**
 
