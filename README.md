@@ -9,13 +9,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaveeshtennakoon" alt="kaveeshtennakoon" /></a> </p>
 
-- 🌱 I’m currently learning **python , C+, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **python , C+, HTML, CSS, JavaScript, Java, SQL**
 
 - 💬 Ask me about **python , tkinter**
 
 - 📫 How to reach me **kaveeshoffical@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
