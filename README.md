@@ -2,7 +2,11 @@
 
 ###
 
-<h4 align="left">I am a Computer Science undergraduate at Informatics Institute of<br>Technology who strongly desires to explore new technologies. A team<br>player with good communication skills and empathy. Good at time<br>management and able to handle pressure under stress and conflicts.</h4>
+<img align="right" height="150" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" />
+
+###
+
+<h4 align="left">I am a Computer Science undergraduate at Informatics Institute of Technology who strongly desires to explore new technologies. A team player with good communication skills and empathy. Good at time management and able to handle pressure under stress and conflicts.</h4>
 
 ###
 
